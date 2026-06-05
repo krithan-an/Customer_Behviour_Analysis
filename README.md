@@ -8,10 +8,8 @@ This project demonstrates a complete data analytics workflow using Python, Postg
 
 ## Dataset
 
-* Source: [Dataset Source]
+* Source: Customer Behavior data
 * Format: CSV
-* Records: [Number of Rows]
-* Features: [Number of Columns]
 
 The dataset contains information related to customers, sales, products, and transactions, which is used to generate meaningful business insights.
 
