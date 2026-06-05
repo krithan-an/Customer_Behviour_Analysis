@@ -1,4 +1,3 @@
-<img width="1183" height="663" alt="Screenshot 2026-06-05 192021" src="https://github.com/user-attachments/assets/ccbc0835-bb4b-4fa7-be58-10253b899ef7" />
 # Data Analytics Project
 
 ## Overview
@@ -110,7 +109,7 @@ Data-Analytics-Project/
 ├── Reports/
 └── README.md
 ```
-
+<img width="1183" height="663" alt="Screenshot 2026-06-05 192021" src="https://github.com/user-attachments/assets/ccbc0835-bb4b-4fa7-be58-10253b899ef7" />
 ---
 
 ## Author
